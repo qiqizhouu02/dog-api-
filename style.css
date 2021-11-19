@@ -1,0 +1,16 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+#imageRandom {
+    width: 250px;
+    height: 250px;
+}
+
+.image_style {
+    text-align: center;
+    margin: auto;
+}
